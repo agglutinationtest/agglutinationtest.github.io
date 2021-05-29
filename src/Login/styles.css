@@ -1,0 +1,15 @@
+.centerContainer {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: auto;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10%;
+}
+
+p {
+    font-size: 22px;
+}
+
+.homepageHeader {
+    text-align: center;
+}
